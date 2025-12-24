@@ -23,7 +23,7 @@
 <h2>Reach Me Out</h2>
 
 <ul>
-  <li>🌐 <strong>Website:</strong> <a href="https://fahry.my.id">https://fahry.my.id</a></li>
+  <li>🌐 <strong>Website:</strong> <a href="https://fahry.my.id">fahry.my.id</a></li>
   <li>📧 <strong>Email:</strong> <a href="mailto:fahryfirdaus@gmail.com">fahryfirdaus@gmail.com</a></li>
   <li>💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/fahryfirdaus/">fahryfirdaus</a></li>
 </ul>
