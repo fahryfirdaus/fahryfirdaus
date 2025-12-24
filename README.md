@@ -13,9 +13,3 @@
 <h2>Reach Me Out</h2>
 
 **Email:** [fahryfirdaus@gmail.com](mailto:fahryfirdaus@gmail.com)
-
-## Progressive Stats Report:
-
-| **Github Stats** | **Top Languages** |
-| --- | --- |
-| [![Stats](https://raw.githubusercontent.com/fahryfirdaus/github-stats/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/fahryfirdaus) | [![Top Langs](https://raw.githubusercontent.com/fahryfirdaus/github-stats/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/fahryfirdaus) |
