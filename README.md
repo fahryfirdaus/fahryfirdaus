@@ -14,7 +14,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=nextjs,react,php,js,ts,tailwind"
+      src="https://skillicons.dev/icons?i=nextjs,react,php,js,ts,tailwind,docker,git"
       alt="Tech Stack"
     />
   </a>
