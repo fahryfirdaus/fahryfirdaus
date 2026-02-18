@@ -1,13 +1,21 @@
 <h1>Hello Fellas 👋</h1>
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<picture>
+  <source
+    srcset="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <source
+    srcset="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=000000&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=000000&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
+    alt="Typing SVG"
+  />
+</picture>
 
 <h2>Tech Stack</h2>
 
