@@ -1,21 +1,17 @@
 <h1>Hello Fellas 👋</h1>
 
-<picture>
-  <source
-    srcset="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
-    media="(prefers-color-scheme: dark)"
+<p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
+    alt="Typing SVG"
+    #gh-dark-mode-only
   />
-
-  <source
-    srcset="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=000000&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
-    media="(prefers-color-scheme: light)"
-  />
-
   <img
     src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=000000&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
     alt="Typing SVG"
+    #gh-light-mode-only
   />
-</picture>
+</p>
 
 <h2>Tech Stack</h2>
 
