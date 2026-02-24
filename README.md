@@ -1,6 +1,6 @@
 <h1>Hello Fellas 👋</h1>
 
-<p>
+<div>
   <img
     src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
     alt="Typing SVG"
@@ -11,7 +11,7 @@
     alt="Typing SVG"
     #gh-light-mode-only
   />
-</p>
+</div>
 
 <h2>Tech Stack</h2>
 
