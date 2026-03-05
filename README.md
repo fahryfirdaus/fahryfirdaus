@@ -1,5 +1,6 @@
 <h1>Hello Fellas 👋</h1>
-
+<div>
+</div>
 <div>
   <img
     src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&width=400&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
