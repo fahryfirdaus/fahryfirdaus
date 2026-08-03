@@ -3,7 +3,7 @@
 </div>
 <div>
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&width=400&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
+    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ffffff&size=20&width=400&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Software+Engineer;"
     alt="Typing SVG"
     #gh-dark-mode-only
   />
