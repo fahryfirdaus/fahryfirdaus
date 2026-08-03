@@ -7,11 +7,6 @@
     alt="Typing SVG"
     #gh-dark-mode-only
   />
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=000000&size=20&width=400&lines=Welcome+to+my+GitHub+Profile!;My+name+is+Fahry+Firdaus;I'm+a+Web+Developer;"
-    alt="Typing SVG"
-    #gh-light-mode-only
-  />
 </div>
 
 <h2>Tech Stack</h2>
